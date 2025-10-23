@@ -1,4 +1,4 @@
-/*This program is a basic conditional statement using if-else decision making to check whether the entered number is positive, negative or  zero"
+/*This program is a basic conditional statement using if-else decision making to check whether the entered number is positive, negative or  zero"*/
 
 #include<iostream>
 using namespace std;
