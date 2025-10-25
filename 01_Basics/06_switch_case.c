@@ -1,4 +1,6 @@
-/*This program introduces switch case. It takes input from user and prints out the day corresponding to that number, starting with 1=Monday*/
+/*This program introduces switch case. 
+It takes input from user and prints out the day corresponding to that number.
+Starting with 1=Monday*/
 
 #include<stdio.h>
 #include<conio.h>
