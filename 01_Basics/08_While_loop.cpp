@@ -17,7 +17,7 @@ sum+=i;
 i++;
 }
 
-cout << "Sum till "<< num << "is: "<< sum << endl;
+cout << "Sum till "<< num << " is: "<< sum << endl;
 
 cin.ignore();
 cin.get();
