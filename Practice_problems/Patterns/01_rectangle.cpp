@@ -12,7 +12,7 @@ int main()
  unsigned int length, width = 0;
   cout << "Enter Length of rectangle: ";
   cin >> length;
-  puts("\n");
+  cout << "\n";
   cout << "Enter Width of rectangle: ";
   cin >> width;
 
