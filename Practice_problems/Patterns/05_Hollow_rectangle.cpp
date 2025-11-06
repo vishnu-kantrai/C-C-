@@ -18,7 +18,7 @@ int main()
     {
       for(int i=0; i<length; i++)
         {
-          if((i==0 || i==length-1) && (j==0 || j==width-1))
+          if(i == 0 || i == length-1 || j == 0 || j == width-1)
             cout << "* ";
           else
             cout << "  ";
